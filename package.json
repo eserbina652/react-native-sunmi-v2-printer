@@ -13,6 +13,7 @@
     "url": "https://github.com/suraneti/react-native-sunmi-v2-printer/issues"
   },
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
